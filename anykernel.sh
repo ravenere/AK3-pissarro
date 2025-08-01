@@ -11,7 +11,7 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=pissarro
-device.name2=pissarroin
+device.name2=
 device.name3=
 device.name4=
 device.name5=
@@ -22,6 +22,8 @@ supported.versions=
 block=/dev/block/by-name/boot;
 is_slot_device=1;
 ramdisk_compression=auto;
+patch_vbmeta_flag=auto;
+no_block_display=1;
 
 
 ## AnyKernel methods (DO NOT CHANGE)
