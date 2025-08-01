@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=NOVA by Abdul7852
+kernel.string=elektrofrezirovshik by ravenere
 do.devicecheck=1
 do.modules=0
 do.systemless=1
